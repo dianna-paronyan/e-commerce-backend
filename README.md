@@ -1,4 +1,4 @@
 # e-commerce-backend
 Created with
-# Express JS
-# Sqlite3
+-Express JS
+-Sqlite3
